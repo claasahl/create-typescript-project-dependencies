@@ -7,7 +7,7 @@ deploy:
   email: $DEPLOY_NPM_EMAIL
   api_key: $DEPLOY_NPM_API_KEY
   skip_cleanup: true
-  tag: nodejs-v11
+  tag: nodejs-v8
   on:
     tags: true
     all_branches: true

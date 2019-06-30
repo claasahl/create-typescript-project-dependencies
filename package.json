@@ -26,10 +26,10 @@
   "bugs": {
     "url": "https://github.com/claasahl/create-typescript-project-dependencies/issues"
   },
-  "homepage": "https://github.com/claasahl/create-typescript-project-dependencies/tree/nodejs-v11",
+  "homepage": "https://github.com/claasahl/create-typescript-project-dependencies/tree/nodejs-v8",
   "dependencies": {
     "typescript": "latest",
-    "@types/node": "^11",
+    "@types/node": "^8",
     "ts-node": "latest",
     "husky": "latest",
     "prettier": "latest",
