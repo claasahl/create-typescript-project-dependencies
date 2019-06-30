@@ -4,6 +4,7 @@
   "description": "managed dependencies for NPM package create-typescript-project",
   "private": false,
   "scripts": {
+    "test": "exit 0",
     "precommit": "pretty-quick --staged"
   },
   "repository": {
