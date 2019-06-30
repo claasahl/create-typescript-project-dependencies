@@ -1,0 +1,26 @@
+{
+  "name": "create-typescript-project-dependencies",
+  "version": "0.0.1",
+  "description": "managed dependencies for NPM package create-typescript-project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claasahl/create-typescript-project-dependencies.git"
+  },
+  "keywords": [
+    "typescript",
+    "init",
+    "ts",
+    "dependencies",
+    "create-typescript-project"
+  ],
+  "author": {
+    "name": "Claas Ahlrichs",
+    "email": "claasahl@gmail.com",
+    "url": "https://github.com/claasahl"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claasahl/create-typescript-project-dependencies/issues"
+  },
+  "homepage": "https://github.com/claasahl/create-typescript-project-dependencies#readme"
+}
