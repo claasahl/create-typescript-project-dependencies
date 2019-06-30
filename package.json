@@ -2,6 +2,7 @@
   "name": "create-typescript-project-dependencies",
   "version": "0.0.1",
   "description": "managed dependencies for NPM package create-typescript-project",
+  "private": false,
   "scripts": {
     "precommit": "pretty-quick --staged"
   },
@@ -28,7 +29,7 @@
   "homepage": "https://github.com/claasahl/create-typescript-project-dependencies#readme",
   "dependencies": {
     "typescript": "latest",
-    "@types/node": "10",
+    "@types/node": "^10",
     "ts-node": "latest",
     "husky": "latest",
     "prettier": "latest",
