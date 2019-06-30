@@ -1,5 +1,6 @@
 # create-typescript-project-dependencies
 
+![TRAVIS - build](https://travis-ci.com/claasahl/create-typescript-project-dependencies.svg?branch=nodejs-v11)
 ![NPM - version](https://img.shields.io/npm/v/create-typescript-project-dependencies/nodejs-v11.svg)
 ![NPM - downloads](https://img.shields.io/npm/dw/create-typescript-project-dependencies.svg)
 
