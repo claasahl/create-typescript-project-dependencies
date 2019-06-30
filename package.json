@@ -29,7 +29,7 @@
   "homepage": "https://github.com/claasahl/create-typescript-project-dependencies/tree/nodejs-v11",
   "dependencies": {
     "typescript": "latest",
-    "@types/node": "^10",
+    "@types/node": "^11",
     "ts-node": "latest",
     "husky": "latest",
     "prettier": "latest",
