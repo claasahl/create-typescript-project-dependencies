@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-project-dependencies",
-  "version": "9.0.5",
+  "version": "9.0.6",
   "description": "managed dependencies for NPM package create-typescript-project",
   "private": false,
   "scripts": {
