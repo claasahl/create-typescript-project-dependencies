@@ -2,8 +2,8 @@ name: Deploy to NPM
 
 on:
   push:
-    branches: # Array of patterns that match refs/heads
-      - master # Push events on master branch
+    branches:
+      - nodejs-v6
 
 jobs:
   deploy:
