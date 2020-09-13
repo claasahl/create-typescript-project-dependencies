@@ -3,7 +3,7 @@ name: Deploy to NPM
 on:
   push:
     branches:
-      - nodejs-v12
+      - nodejs-v13
 
 jobs:
   deploy:
@@ -14,7 +14,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 13
       - run: echo "//registry.npmjs.org/:_authToken=${NPM_DEPLOY_TOKEN}" > .npmrc
         env:
           NPM_DEPLOY_TOKEN: ${{ secrets.NPM_DEPLOY_TOKEN }}
