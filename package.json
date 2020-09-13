@@ -29,7 +29,7 @@
   "homepage": "https://github.com/claasahl/create-typescript-project-dependencies/tree/nodejs-v13",
   "dependencies": {
     "typescript": "latest",
-    "@types/node": "^13",
+    "@types/node": "^14",
     "ts-node": "latest",
     "husky": "latest",
     "prettier": "latest",
