@@ -1,10 +1,10 @@
 # create-typescript-project-dependencies
 
-![TRAVIS - build](https://travis-ci.com/claasahl/create-typescript-project-dependencies.svg?branch=nodejs-v12)
-![NPM - version](https://img.shields.io/npm/v/create-typescript-project-dependencies/nodejs-v12.svg)
+![TRAVIS - build](https://travis-ci.com/claasahl/create-typescript-project-dependencies.svg?branch=nodejs-v13)
+![NPM - version](https://img.shields.io/npm/v/create-typescript-project-dependencies/nodejs-v13.svg)
 ![NPM - downloads](https://img.shields.io/npm/dw/create-typescript-project-dependencies.svg)
 
-This is a twin-package of [`create-typescript-project`](https://www.npmjs.com/package/create-typescript-project), which manages dependencies for [NodeJS v12](https://nodejs.org) environments.
+This is a twin-package of [`create-typescript-project`](https://www.npmjs.com/package/create-typescript-project), which manages dependencies for [NodeJS v13](https://nodejs.org) environments.
 
 ## Looking For More NodeJS Environments?
 
