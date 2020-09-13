@@ -22,11 +22,4 @@ jobs:
       - run: npm test
       # - run: npm publish --access public --tag nodejs-v14
       - run: echo "::set-env name=PACKAGE_VERSION::$(grep 'version' package.json | head -1 | awk -F':' '{ print $2 }' | sed 's/[",]//g')"
-      - run: echo "$PACKAGE_VERSION"
-      - run: PACKAGE_VERSION=$(grep 'version' package.json | head -1 | awk -F':' '{ print $2 }' | sed 's/[",]//g')
-      - run: grep 'version' package.json
-      - run: grep 'version' package.json | head -1
-      - run: grep 'version' package.json | head -1 | awk -F':' '{ print $2 }'
-      - run: grep 'version' package.json | head -1 | awk -F':' '{ print $2 }' | sed 's/[",]//g'
-      - run: echo $PACKAGE_VERSION
-      - run: npm dist-tag add create-typescript-project-dependencies@$PACKAGE_VERSION latest
+      - run: echo "$PACKAGE_VERSION" | xargs -I{} "npm dist-tag add create-typescript-project-dependencies@{} latest"
