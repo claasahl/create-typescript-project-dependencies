@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-project-dependencies",
-  "version": "8.0.7",
+  "version": "8.0.8",
   "description": "managed dependencies for NPM package create-typescript-project",
   "private": false,
   "scripts": {
