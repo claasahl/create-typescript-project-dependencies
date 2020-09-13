@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-project-dependencies",
-  "version": "14.0.4",
+  "version": "14.0.5",
   "description": "managed dependencies for NPM package create-typescript-project",
   "private": false,
   "scripts": {
