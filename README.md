@@ -15,3 +15,5 @@ This is a twin-package of [`create-typescript-project`](https://www.npmjs.com/pa
 - [NodeJS v10](https://www.npmjs.com/package/create-typescript-project-dependencies/v/nodejs-v10)
 - [NodeJS v11](https://www.npmjs.com/package/create-typescript-project-dependencies/v/nodejs-v11)
 - [NodeJS v12](https://www.npmjs.com/package/create-typescript-project-dependencies/v/nodejs-v12)
+- [NodeJS v13](https://www.npmjs.com/package/create-typescript-project-dependencies/v/nodejs-v13)
+- [NodeJS v14](https://www.npmjs.com/package/create-typescript-project-dependencies/v/nodejs-v14)
